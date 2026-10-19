@@ -1,0 +1,22 @@
+# Local datasets and credentials
+data.csv
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Editor and OS files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.log
